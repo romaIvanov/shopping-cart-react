@@ -1,0 +1,154 @@
+[
+  {
+    "id": 0,
+    "title": "Происхождение",
+    "author": "Дэн Браун",
+    "image": "https://i.livelib.ru/boocover/1002720844/o/51bb/Den_Braun__Proishozhdenie.jpeg",
+    "price": 710,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "Джордж Оруэлл",
+    "image": "https://i.livelib.ru/boocover/1001579866/o/84f9/Dzhordzh_Oruell__1984._Skotnyj_dvor_sbornik.jpeg",
+    "price": 415,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Девушка в тумане",
+    "author": "Донато Карризи",
+    "image": "https://j.livelib.ru/boocover/1002884542/o/323e/Donato_Karrizi__Devushka_v_tumane.jpeg",
+    "price": 464,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "Империя должна умереть",
+    "author": "Михаил Зыгарь",
+    "image": "https://j.livelib.ru/boocover/1002596695/o/3c2c/Mihail_Zygar__Imperiya_dolzhna_umeret._Istoriya_russkih_revolyutsij_v_litsah._19.jpeg",
+    "price": 741,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "Земное притяжение",
+    "author": "Татьяна Устинова",
+    "image": "https://i.livelib.ru/boocover/1002586404/o/8e82/Tatyana_Ustinova__Zemnoe_prityazhenie.jpeg",
+    "price": 317,
+    "rating": 1
+  },
+  {
+    "id": 5,
+    "title": "Зулейха открывает глаза",
+    "author": "Гузель Яхина",
+    "image": "https://i.livelib.ru/boocover/1001173596/o/ad16/Guzel_Yahina__Zulejha_otkryvaet_glaza.jpeg",
+    "price": 254,
+    "rating": 0
+  },
+  {
+    "id": 6,
+    "title": "Очаровательный кишечник. Как самый могущественный орган управляет нами",
+    "author": "Джулия Эндерс",
+    "image": "https://j.livelib.ru/boocover/1002785064/o/3c69/Dzhuliya_Enders__Ocharovatelnyj_kishechnik._Kak_samyj_moguschestvennyj_organ_upr.jpeg",
+    "price": 573,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "title": "iPhuck 10",
+    "author": "Виктор Пелевин",
+    "image": "https://i.livelib.ru/boocover/1002884015/o/ef0a/Viktor_Pelevin__iPhuck_10.jpeg",
+    "price": 246,
+    "rating": 0
+  },
+  {
+    "id": 8,
+    "title": "7 навыков высокоэффективных людей: Мощные...",
+    "author": "Стивен Кови",
+    "image": "https://i.livelib.ru/boocover/1003055575/o/3dd3/Stiven_Kovi__Sem_navykov_vysokoeffektivnyh_lyudej.jpeg",
+    "price": 347,
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "title": "Девушка во льду",
+    "author": "Роберт Брындза",
+    "image": "https://j.livelib.ru/boocover/1002702492/o/14be/Robert_Bryndza__Devushka_vo_ldu.jpeg",
+    "price": 882,
+    "rating": 2
+  },
+  {
+    "id": 10,
+    "title": "Магия утра. Как первый час дня определяет ваш успех",
+    "author": "Хэл Элрод",
+    "image": "https://i.livelib.ru/boocover/1002020887/o/354c/Hel_Elrod__Magiya_utra._Kak_pervyj_chas_dnya_opredelyaet_vash_uspeh.jpeg",
+    "price": 829,
+    "rating": 1
+  },
+  {
+    "id": 11,
+    "title": "Азиатская европеизация. История Российского государства. Царь Петр...",
+    "author": "Борис Акунин",
+    "image": "https://j.livelib.ru/boocover/1002692051/o/9377/Boris_Akunin__Istoriya_Rossijskogo_gosudarstva._Aziatskaya_evropeizatsiya._Tsar_.jpeg",
+    "price": 389,
+    "rating": 2
+  },
+  {
+    "id": 12,
+    "title": "Ведьмак (сборник)",
+    "author": "Анджей Сапковский",
+    "image": "https://j.livelib.ru/boocover/1001616125/o/a1cb/Andzhej_Sapkovskij__Mech_Prednaznacheniya_sbornik.jpeg",
+    "price": 424,
+    "rating": 3
+  },
+  {
+    "id": 13,
+    "title": "Атлант расправил плечи",
+    "author": "Айн Рэнд",
+    "image": "https://j.livelib.ru/boocover/1001492763/o/596c/Ajn_Rend__Atlant_raspravil_plechi.jpeg",
+    "price": 157,
+    "rating": 2
+  },
+  {
+    "id": 14,
+    "title": "Цена вопроса. Том 1",
+    "author": "Александра Маринина",
+    "image": "https://i.livelib.ru/boocover/1002548977/o/2408/Aleksandra_Marinina__Tsena_voprosa._Tom_1.jpeg",
+    "price": 664,
+    "rating": 0
+  },
+  {
+    "id": 15,
+    "title": "Исчезнувшая",
+    "author": "Гиллиан Флинн",
+    "image": "https://j.livelib.ru/boocover/1002693434/o/d4cb/Gillian_Flinn__Ischeznuvshaya.jpeg",
+    "price": 476,
+    "rating": 4
+  },
+  {
+    "id": 17,
+    "title": "Метро 2035",
+    "author": "Дмитрий Глуховский",
+    "image": "https://i.livelib.ru/boocover/1001260109/o/7af6/Dmitrij_Gluhovskij__Metro_2035.jpeg",
+    "price": 837,
+    "rating": 4
+  },
+  {
+    "id": 18,
+    "title": "Снеговик",
+    "author": "Ю Несбё",
+    "image": "https://i.livelib.ru/boocover/1002275222/o/b5dc/Yu_Nesbjo__Snegovik.jpeg",
+    "price": 796,
+    "rating": 5
+  },
+  {
+    "id": 19,
+    "title": "Как тренировать память. Не думайте о памяти – лучше используйте ее на все сто!",
+    "author": "Джонатан Хэнкок",
+    "image": "https://j.livelib.ru/boocover/1000587790/o/c831/Dzhonatan_Henkok__Kak_trenirovat_pamyat._Nedumajte_o_pamyati__luchshe_ispolzujte.jpeg",
+    "price": 399,
+    "rating": 5
+  }
+]
