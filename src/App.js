@@ -1,7 +1,32 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import { connect } from 'react-redux';
+import axios from 'axios';
+import { Container, Card } from 'semantic-ui-react';
 
-function App() {
-  return <div className='App'></div>;
+import { getBooks } from './actions/books';
+import BookCard from './components/BookCard';
+
+function App({ getBooks, items, isLoading }) {
+  useEffect(() => {
+    axios.get('/books.json').then(({ data }) => getBooks(data));
+  }, []);
+
+  return (
+    <Container>
+      <Card.Group itemsPerRow={4}>
+        {isLoading ? (
+          <h1>Загрузка...</h1>
+        ) : (
+          items.map((item, idx) => <BookCard key={idx} {...item} />)
+        )}
+      </Card.Group>
+    </Container>
+  );
 }
 
-export default App;
+const mapStateToProps = state => ({
+  items: state.books.items,
+  isLoading: state.books.isLoading
+});
+
+export default connect(mapStateToProps, { getBooks })(App);
